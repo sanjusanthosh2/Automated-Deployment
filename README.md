@@ -103,4 +103,3 @@ aws logs tail /var/log/nginx/access.log --follow
 ## 📝 License
 This project is open-source and available for modification.
 
-📌 **Maintained by:** lavuchandu169 🚀
