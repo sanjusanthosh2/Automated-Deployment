@@ -36,8 +36,7 @@ The architecture follows a structured **CI/CD workflow**, as shown in the diagra
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone git@github.com:lavuchandu169/live.git
-cd live
+
 ```
 
 ### **2️⃣ Configure AWS Credentials**
